@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: 
+    url(https://i.pinimg.com/564x/8c/29/bb/8c29bb7954f08e2b99d6370e90e74a16.jpg);
+    color: white;
+    background-size: cover;
+    height:50vh;
+    /* vh: viewpoint height  */
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1200px;
+}
