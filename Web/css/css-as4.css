@@ -15,7 +15,7 @@
 }
 
 #first {
-    background-image: url("https://github.com/Yenting0715/Yenting0715.github.io/blob/main/Web/assets/home-1.png");
+    background-image: url("https://yenting0715.github.io/Web/assets/home-1.png");
     /* min-height: 1200px; */
     background-attachment: fixed;
     background-position: center;
@@ -26,7 +26,7 @@
 }
 
 #second {
-    background-image: url("https://github.com/Yenting0715/Yenting0715.github.io/blob/main/Web/assets/home-2.png");
+    background-image: url("https://yenting0715.github.io/Web/assets/home-2.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
