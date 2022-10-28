@@ -1,0 +1,17 @@
+#outer{
+    background-image: url("https://p4css.github.io/webScroll/images/Linpen2006.jpg");
+    background-size: cover;
+    background-repeat: none;
+    background-attachment: fixed;
+}
+
+
+#statusbar{
+    background-image: url("https://p4css.github.io/webScroll/images/Linpen2019.jpg");
+    background-size: cover;
+    background-repeat: none;
+    background-attachment: fixed;
+    position: relative;
+    left: 0;
+    width: 0;
+}
